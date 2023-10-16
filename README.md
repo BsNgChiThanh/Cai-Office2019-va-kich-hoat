@@ -31,14 +31,11 @@
 ## DÙNG OFFICE TOOL ĐỂ INSTALL GIẤY PHÉP OFFICE 2019: ##
 - Source [tại đây](https://github.com/BsNgChiThanh/OfficeTool)
 - ![image](https://github.com/BsNgChiThanh/Cai-Office2019-va-kich-hoat/assets/82578024/13ee5180-c97c-43f5-9410-9e357c3b1a56)
-
+- 
+- 
 
 ## KÍCH HOẠT OFFICE 2019 ##
-
-https://github.com/BsNgChiThanh/Kich-hoat-Office/blob/KichHoatOffice/Office%202019.txt
-
-
-
-
-
-
+- Kích hoạt office 2019 bằng cmd: https://github.com/BsNgChiThanh/Kich-hoat-Office/blob/KichHoatOffice/Office%202019.txt
+- Hoặc kích hoạt bằng: https://github.com/BsNgChiThanh/KMS_VL_ALL_AIO
+- Hoặc kích hoạt bằng: https://github.com/BsNgChiThanh/MAS-TOOL
+- Hoặc kích hoạt bằng: https://github.com/BsNgChiThanh/ActivateAIOTools
