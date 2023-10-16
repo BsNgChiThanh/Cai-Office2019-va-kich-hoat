@@ -27,25 +27,8 @@
 - **Dán vào rồi enter:**
 - ![image](https://github.com/BsNgChiThanh/Cai-Office2019-va-kich-hoat/assets/82578024/ba4bd503-caf2-4c26-84a9-fe8274e45b70)
 - ![image](https://github.com/BsNgChiThanh/Cai-Office2019-va-kich-hoat/assets/82578024/4578b8c0-e2a5-4693-934f-65be759f8f02)
-- **Install Office 2019**
-- Bấm nút **Windows + R**
-- Gõ vào cmd rồi bấm enter
-- ![image](https://github.com/BsNgChiThanh/Cai-Office2019-va-kich-hoat/assets/82578024/f7c97d26-4cf2-41b4-a9e9-0304e63bd3e0)
-- Dán vào dòng lệnh: **cd C:\Windows\System32** rồi đánh enter
-- ![image](https://github.com/BsNgChiThanh/Cai-Office2019-va-kich-hoat/assets/82578024/0b3a4d58-ae57-4da4-ba98-df2615dccd7c)
-- ![image](https://github.com/BsNgChiThanh/Cai-Office2019-va-kich-hoat/assets/82578024/69241223-c760-41fe-b1af-0781b79df8a7)
-- Sau đó copy dòng lênh:
 
-```php
-cd /d %ProgramFiles%\Microsoft Office\Office16
-cd /d %ProgramFiles(x86)%\Microsoft Office\Office16
-for /f %i in ('dir /b ..\root\Licenses16\ProPlus2019VL_MAK*.xrm-ms') do cscript ospp.vbs /inslic:"..\root\Licenses16\%i" 
-cscript ospp.vbs /setprt:1688
-cscript ospp.vbs /inpkey:FXYTK-NJJ8C-GB6DW-3DYQT-6F7TH
-cscript ospp.vbs /sethst:kms8.msguides.com
-cscript ospp.vbs /act
-```
-- Dán vào cmd trên là xong!
+
 
 
 
