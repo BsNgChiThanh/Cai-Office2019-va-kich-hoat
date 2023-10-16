@@ -28,6 +28,11 @@
 - ![image](https://github.com/BsNgChiThanh/Cai-Office2019-va-kich-hoat/assets/82578024/ba4bd503-caf2-4c26-84a9-fe8274e45b70)
 - ![image](https://github.com/BsNgChiThanh/Cai-Office2019-va-kich-hoat/assets/82578024/4578b8c0-e2a5-4693-934f-65be759f8f02)
 
+## DÙNG OFFICE TOOL ĐỂ INSTALL GIẤY PHÉP OFFICE 2019: ##
+- Source [tại đây](https://github.com/BsNgChiThanh/OfficeTool)
+- ![image](https://github.com/BsNgChiThanh/Cai-Office2019-va-kich-hoat/assets/82578024/13ee5180-c97c-43f5-9410-9e357c3b1a56)
+
+
 ## KÍCH HOẠT OFFICE 2019 ##
 
 https://github.com/BsNgChiThanh/Kich-hoat-Office/blob/KichHoatOffice/Office%202019.txt
