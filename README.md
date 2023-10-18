@@ -19,6 +19,6 @@
 - **Bấm phím 1"**
 - ![image](https://github.com/BsNgChiThanh/Cai-Office2019-va-kich-hoat/assets/82578024/cd775142-dc87-4a51-a12a-790873a0047d)
 - ![image](https://github.com/BsNgChiThanh/Cai-Office2019-va-kich-hoat/assets/82578024/24affcec-beb8-4b0d-a07a-fd623d4ca06b)
-- OK!
+- OK! Mở Word lên, Vô File-->Account sẽ thấy:
 - ![image](https://github.com/BsNgChiThanh/Cai-Office2019-va-kich-hoat/assets/82578024/09e0909d-bcab-453c-a6ae-43688ad15d7f)
 - Done!
