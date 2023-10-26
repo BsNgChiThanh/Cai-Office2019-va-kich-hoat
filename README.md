@@ -6,6 +6,7 @@
   - https://raw.githubusercontent.com/BsNgChiThanh/Cai-Office2019-va-kich-hoat/IMP/setupProplus2019retail.x64Bit.exe
   - ![image](https://github.com/BsNgChiThanh/Cai-Office2019-va-kich-hoat/assets/82578024/0dae270a-292d-4cd5-a745-ceb46e9000a3)
   - ![image](https://github.com/BsNgChiThanh/Cai-Office2019-va-kich-hoat/assets/82578024/d229bc64-4c18-484f-931f-534f1e2a9ccb)
+  - https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/ProPlus2019Retail.img
   - Cài xong tiến hành kích hoạt.
 
 ## KÍCH HOẠT OFFICE 2019 ##
