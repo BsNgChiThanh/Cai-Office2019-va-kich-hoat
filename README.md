@@ -4,10 +4,10 @@
   - **Download file cài đặt Office 2019 [tại đây](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/ProPlus2019Retail.img) hoặc [tại đây](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EVzsWWwrfyZEgGgvo8TlzbEBEWUI3EIG7myUZG4axWS_6w?e=6YXlCa)** **Link [dự phòng](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EUkFHSfS-aBOufvtlskYazwBhtITiwyIR0ADmVg-AZk9Kg?e=4epSA7)**
   - https://raw.githubusercontent.com/BsNgChiThanh/Cai-Office2019-va-kich-hoat/IMP/setupProplus2019retail.x32Bit.exe
   - https://raw.githubusercontent.com/BsNgChiThanh/Cai-Office2019-va-kich-hoat/IMP/setupProplus2019retail.x64Bit.exe
+  - https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/ProPlus2019Retail.img
   - ![image](https://github.com/BsNgChiThanh/Cai-Office2019-va-kich-hoat/assets/82578024/0dae270a-292d-4cd5-a745-ceb46e9000a3)
   - ![image](https://github.com/BsNgChiThanh/Cai-Office2019-va-kich-hoat/assets/82578024/d229bc64-4c18-484f-931f-534f1e2a9ccb)
-  - https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/ProPlus2019Retail.img
-  - Cài xong tiến hành kích hoạt.
+    - Cài xong tiến hành kích hoạt.
 
 ## KÍCH HOẠT OFFICE 2019 ##
   - Kích hoạt office 2019 bằng cmd: https://github.com/BsNgChiThanh/Kich-hoat-Office/blob/KichHoatOffice/Office%202019.txt
